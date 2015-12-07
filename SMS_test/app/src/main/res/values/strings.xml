@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SMS_test</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sms_send">SMS_send</string>
+    <string name="title_activity_sms_receive">SMS_receive</string>
+</resources>

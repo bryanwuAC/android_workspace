@@ -1,0 +1,6 @@
+Post spring-break bonus - A quick hello to shells, C++ and makefiles.
+
+To earn an extra 15% on a quiz score, complete this bonus project during this week's section.
+
+* To earn bonus you must *COMMIT* your changes back to subversion.
+

@@ -1,0 +1,19 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 17
+    buildToolsVersion "23.0.0 rc2"
+
+    defaultConfig {
+        applicationId "cn.eoe.search.bluetooth.device"
+        minSdkVersion 6
+        targetSdkVersion 6
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
