@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">AndroidActivity</string>
-
-    <string name="hello_world">This is another activity!</string>
-    <string name="action_settings">Settings</string>
-    <string name="title_activity_another_aty">AnotherAty</string>
-</resources>
