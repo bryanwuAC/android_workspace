@@ -1,0 +1,6 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+ android:id="@+id/container"
+ android:layout_width="match_parent"
+    android:orientation="vertical"
+android:layout_height="match_parent" /><!-- From: file:/D:/workspace/Myfragment6.10/app/src/main/res/layout/activity_main.xml -->

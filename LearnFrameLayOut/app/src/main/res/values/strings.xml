@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">LearnFrameLayOut</string>
-
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
-    <string name="title_activity_frame_layout_aty">FrameLayoutAty</string>
-    <string name="title_activity_relative_layout_aty">RelativeLayoutAty</string>
-</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\workspace\LearnRV\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\workspace\LearnRV\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-11c95c4d3e9ccc7aca17ee8e51e37ceb9155f027.jar" />
+    </item>
+    <item
+        jar="D:\Users\Bryan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="D:\workspace\LearnRV\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-48cfd6a7bfe94c41a3a31a314d976eae64a323f2.jar" />
+    </item>
+    <item
+        jar="D:\workspace\LearnRV\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="D:\workspace\LearnRV\app\build\intermediates\pre-dexed\debug\classes-2100c591a7e86e030119099e64a23af0b76cfb3c.jar" />
+    </item>
+    <item
+        jar="D:\workspace\LearnRV\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\workspace\LearnRV\app\build\intermediates\pre-dexed\debug\classes-9181cb5e76939a2ca59d45d8276a8ed8c542471e.jar" />
+    </item>
+
+</items>
